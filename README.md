@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GustasLiba
+- 👋 Hi, I’m @GustasJaskulis
 - 👀 I’m interested in programming, blockchain technology and investing.
 - 🌱 I’m currently learning full-stack javascript.
 - 📫 How to reach me - email at gustasbusiness@gmail.com
